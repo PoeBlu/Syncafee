@@ -1,4 +1,5 @@
->#Syncafee
+> Syncafee
+-----
 
 #Introduction
 The ePO and FDE products supplied by McAfee deploy separately, and provide only command-line functionality for performing synchronization tasks to the server. Moreover, the FDE (EEMac) product is deployed through the synchronization and server-queuing of ePO policy to encrypt the hard disk of a client Mac.
